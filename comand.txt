@@ -1,0 +1,9 @@
+internationnal phone input: npm install react-phone-number-input --save
+appwrite installation: npm install node-appwrite
+
+
+Date-picker de react: npm install react-datepicker --save
+dropzone: npm install --save react-dropzone
+
+
+twilio access code: YHAFF1DS4E81K287VMTXWHBQ 
